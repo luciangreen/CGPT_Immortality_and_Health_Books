@@ -1,0 +1,3 @@
+This is not the human-written set of books about Immortality and Time Travel.
+https://github.com/luciangreen/Lucian-Academy contains these books.
+https://github.com/luciangreen/Time_Machine contains a repository to time-travel to become immortal
